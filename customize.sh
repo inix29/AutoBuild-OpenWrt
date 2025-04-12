@@ -13,5 +13,3 @@ sed -i 's/$1$V4UetPzk$CYXluq4wUazHjmCDBCqXF./Lin29rong/g' openwrt/package/lean/d
 
 #3. Replace with JerryKuKu’s Argon
 #rm openwrt/package/lean/luci-theme-argon -rf
-
-curl -s -L https://github.com/nikkinikki-org/OpenWrt-nikki/raw/refs/heads/main/install.sh | sh
